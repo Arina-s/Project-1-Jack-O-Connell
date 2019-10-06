@@ -10,9 +10,7 @@ body {
   margin: 30px 8px;
   padding: 15px;
   background: linear-gradient(0, #eee, #ccc);
-
   border-radius: 8px;
-  box-shadow: 0px 0px 10px rgba(0,0,0,0.4);
 }
 
 .headline {
@@ -28,7 +26,8 @@ body {
     font-size: 35px;
   }
   p {
-    width: 200px;
+    width: 100%;
+    margin: 0;
   }
 }
 
