@@ -27,6 +27,9 @@ body {
   h1 {
     font-size: 35px;
   }
+  p {
+    width: 200px;
+  }
 }
 
 h1 {
