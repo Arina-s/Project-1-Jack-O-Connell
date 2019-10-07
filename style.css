@@ -21,7 +21,6 @@ body {
 @media (max-width: 460px) {
   #main {
     margin: 15px 4px;
-  }
   h1 {
     font-size: 35px;
   }
@@ -31,6 +30,7 @@ body {
   .image {
     margin: 0;
   }
+}
 
 
 h1 {
